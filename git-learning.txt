@@ -1,10 +1,12 @@
-Belajar beda Git dan GitHub dari youtube channel webprogrammingunpas
-Belajar mengenal UI GitHub
-Belajar membuat repository dan file pertama di GitHub
-Belajar melakukan commit, branch, merge di GitHub
-Belajar melakukan fork
-Belajar mengenal UI Git
-Belajar membuat repository dan file pertama di Git
-Belajar melakukan commit, branch, merge di Git
-Belajar melakukan pull dan push
-Belajar mengatasi conflict
+Belajar:
+	1. Mengenal Git dan GitHub dari youtube channel webprogrammingunpas (OK)
+	2. Mengenal UI GitHub (OK)
+	3. Membuat repository dan file pertama di GitHub (OK)
+	4. Melakukan commit, branch, merge di GitHub (OK)
+	5. Melakukan fork
+	6. Mengenal UI Git
+	7. Membuat repository dan file pertama di Git
+	8. Melakukan commit, branch, merge di Git
+	9. Melakukan pull dan push
+	10. Mengatasi conflict
+	11. Membuat file istilah-istilah yang perlu diketahui di dalam Git dan GitHub.
