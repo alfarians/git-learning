@@ -1,6 +1,11 @@
+Cara buat repository baru:
 Buat repository baru dengan menekan ikon tanda "+" di sudut kanan atas dan pilih new repository.
-Beri nama untuk repository Anda [WAJIB]. Nama dengan spasi otomatis akan diganti dengan tanda dash "-", karena standar penamaan harus menggunakan dash.
+Beri nama untuk repository Anda [WAJIB]. Nama dengan spasi otomatis akan diganti dengan tanda dash "-", karena standar penamaan untuk alamat web harus menggunakan dash.
 Beri deskripsi (opsional) dab set siapa saja yang bisa mengakses dan melakukan commit: Pubic & Private.
 Cek "Initialize Readme" untuk membuat file Readme otomatis. File ini berisi deskripsi mengenai repository yang akan kita kerjakan, termasuk memasukkan deskripsi lisensi terkait hak intelektual yang kita terapkan di dalamnya untuk penggunaan, pengubahan, dan penjualan.
 "Add .gitignore" dan "Add licence" (opsional/sementara abaikan) -- advance using. 
 Terakhir tekan tombol "Create Repository". Repository baru siap digunakan.
+
+Cara edit nama repository:
+Di bawah nama repository, pilih tab "Settings".
+Pada field "Repository Name", isikan nama baru dan tekan tombol "Rename".
