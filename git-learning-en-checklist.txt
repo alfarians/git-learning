@@ -1,0 +1,12 @@
+Learning:
+	1. What is Git dan GitHub from youtube channel webprogrammingunpas.
+	2. Knowing UI GitHub.
+	3. Creating repository and first file in GitHub.
+	4. Doing commit, branch, merge in GitHub.
+	5. Doing fork
+	6. Knowing UI Git
+	7. Creating repository and frist file in Git
+	8. Doing commit, branch, merge in Git
+	9. Doing pull and push
+	10. Managing conflict
+	11. Creating file for generally used terms in Git dan GitHub.

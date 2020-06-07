@@ -1,0 +1,5 @@
+Translate all steps in english.
+  Step 1. Creating new repo.
+  Step 2. Creating new file.
+  Step 3. Creating branch and merge.
+  
