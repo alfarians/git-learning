@@ -1,0 +1,27 @@
+Cara buat file baru:
+	1. Di bawah nama repository, di dalam tab "<> Code", tekan tombol "Create new file".
+	2. Beri file nama (berikut extensinya untuk memudahkan dibaca di komputer) sesuai dengan standar penamaan file untuk web (dengan tanda "dash").
+	3. Tulislah isi file Anda.
+	4. Pilih filed "Soft wrap" atau "No wrap" untuk kenyamanan membaca tulisan Anda. Pilih juga jenis indentasi "Space" ata "Tabs" dan besaran indentasinya.
+	5. Beri penjelasan singkat tentang commit Anda (bila tidak diisi akan diisikan otomatis a la Git), juga detil deskripsi dan commit Anda (opsional).
+	6. Pilih tombol radio "Commit directly to the master branch" dan tekan tombol "Commit new file".
+
+Cara edit file:
+	1. Pada daftar file yang terdapat di dalam repo, tekan nama file yang akan diedit.
+	2. Setelah masuk ke dalam tampilan file yang bersangkutan, tekan tombol pena untuk edit.
+	3. Lakukan perubahan yang ingin dilakukan, baik judul maupun isi.
+	4. Isi deskripsi singkat tentang perubahan ini (bila tidak diisi akan diisikan otomatis a la Git), juga detil deskripsi dan perubahan Anda (opsional).
+
+Cara lihat sejarah perubahan file:
+	1. Pada daftar file yang terdapat di dalam repo, tekan nama file yang akan diedit.
+	2. Setelah masuk ke dalam tampilan file yang bersangkutan, tekan tombol pena untuk "History".
+	3. Anda bisa melihat daftar setiap perubahan file tersebut.
+	4. Tekan tombol "..." di samping nama file untuk melihat deskripsi detil perubahan file.
+	5. Tekan nama perubahan dan/atau nomor bash. Anda bisa melihat perubahannya.
+		a. Warna pink/tanda "-" artinya telah dilakukan penghapusan/perubahan.
+		b. Warna hijau/tanda "+" artinya penambahan/perubahan baru yang dilakukan.
+	6. Bisa dilakukan perubahan tampilan menjadi "side-by-side" dengan menekan tombol "Split", atau bertumpuk dengan menekan tombol "Unified".
+
+Cara hapus file:
+	1. Pada daftar file yang terdapat di dalam repo, tekan nama file yang akan diedit.
+	2. Setelah masuk ke dalam tampilan file yang bersangkutan, tekan tombol trash-bin untuk hapus.
