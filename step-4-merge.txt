@@ -1,0 +1,21 @@
+BAGI YANG MELAKUKAN PERUBAHAN pada branch baru, melakukan merge dengan cara:
+	1. Menekan tombol "Compare & pull request" kepada pemilik repo.
+	2. Pada tampilan "Open a pull request", pilih branch yang hendak dijadikan "base" dan "compare". Bila ada keterangan ceklist hijau bertuliskan "Able to merge", maka rencana merging aman dari konflik. Bila tidak, maka akan ada beberapa hal yang perlu disesuaikan.
+	>> Pada bagian bawah disajikan daftar perbedaan antar-branch.
+	3. Isikan pesan pengajuan perubahan (seperti menulis email) pada kolom yang tersedia.
+	4. Lakukan request pada pemilik repo dengan menekan tombol "Create pull request".
+
+BAGI PEMILIK BRANCH Master, melakukan merge dengan cara:
+	1. Menekan tombol "Pull requests" (yang menampilkan jumlah request, bila ada).
+	2. Melihat dan menimbang perubahan yang diajukan.
+	3. (Opsional) Tulis pesan balasan kepada pengaju merge.
+	4. Tekan tombol "Confirm merge". Bila sukses, akan muncul pesan sukses
+	5. Bila sudah tidak diperlukan, maka branch juga bisa dihapus (opsional). -- Lihat file "step-3-branch.txt" bagian menghapus branch.
+
+>> Kembali ke tab "<> Code" dan perhatikan perubahan daftar isi file repo branch Master dan branch baru sama persis.
+>> Perhatikan juga perubahan pada tab Insight > Network.
+
+>> Coba dengan buat dua buah branch atau lebih:
+	-- salah satu branch melakukan penambahan, dan ada penghapusan sebagian isi.
+	-- branch lain ada penambahan dan perubahan isi.
+	-- akan muncul "conflict", Anda akan diarahkan ke layar "code-editor" untuk penyelesaian conflict, dengan memilih salah satu perubahan yang lebih disepakati.
