@@ -1,0 +1,28 @@
+Membuat branch cara #1:
+	1. Membuat file baru dan/atau mengubah file yang sudah ada.
+	2. Untuk pilihan tombol radio "Create new branch for this commit and start a pull request".
+	3. Tekan tombol "Commit new file".
+
+Membuat branch cara #2:
+	1. Dari tampilan repo, pada tab "<> Code", tekan tombol "Branch: Master", isi pada field untuk mencari branch atau membuat baru.
+	2. Bila belum ada branch yang dicari, akan tampil pilihan untuk membuat branch baru.
+	3. Anda masuk ke tampilan untuk branch baru yang semuanya tampak sama dengan "Branch: Master", hanya nama pada "Branch: Nama Branch Baru".
+
+Melihat daftar branch:
+	1. Tekan sub tab "Branch" pada kolom "<> Code".
+
+Menghapus branch:
+	1. Tekan sub tab "Branch" pada kolom "<> Code".
+	2. Tekan tombol "trash-bin" pada nama branch yang hendak dihapus.
+
+Note:
+	Additional reference: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository
+
+>> Buatlah file untuk branch ini dengan cara yang sama untuk membuat file pada branch Master. Perhatikan apakah folder untuk commit sesuai dengan branch yang akan dituju.
+>> Perhatikan pada daftar isi repository, ada tambahan file dan tombol "Compare & pull request" pada branch baru.
+>> Pada tab Insight > Network juga tampak ada tambahan alur dengan panah biru.
+>> Lakukan perubahan pada file yang sudah ada (copy file yang dibuat di branch Master yang terdapat pada branch baru.
+>> Lihat perubahan yang terjadi:
+	-- Pada daftar history file yang bersangkutan pada branch tersebut.
+	-- Pada daftar isi file pada repo branch tersebut.
+	-- Pada Insight > Network.
