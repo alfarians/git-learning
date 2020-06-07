@@ -18,4 +18,4 @@ BAGI PEMILIK BRANCH Master, melakukan merge dengan cara:
 >> Coba dengan buat dua buah branch atau lebih:
 	-- salah satu branch melakukan penambahan, dan ada penghapusan sebagian isi.
 	-- branch lain ada penambahan dan perubahan isi.
-	-- akan muncul "conflict", Anda akan diarahkan ke layar "code-editor" untuk penyelesaian conflict, dengan memilih salah satu perubahan yang lebih disepakati.
+	-- akan muncul "conflict", Anda akan diarahkan ke layar "code-editor" untuk penyelesaian konflik = "resolve-conflict", dengan memilih salah satu perubahan yang lebih disepakati.
